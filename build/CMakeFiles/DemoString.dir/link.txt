@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/DemoString.dir/mystring.cc.o  -o DemoString -rdynamic 

@@ -1,0 +1,3 @@
+/home/lizhen/work/cplusplustest/build/CMakeFiles/edit_cache.dir
+/home/lizhen/work/cplusplustest/build/CMakeFiles/rebuild_cache.dir
+/home/lizhen/work/cplusplustest/build/CMakeFiles/DemoString.dir

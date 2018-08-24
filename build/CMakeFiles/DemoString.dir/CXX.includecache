@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lizhen/work/cplusplustest/mystring.cc
+mystring.h
+/home/lizhen/work/cplusplustest/mystring.h
+
+/home/lizhen/work/cplusplustest/mystring.h
+iostream
+-
+string
+-
+memory
+-
+
